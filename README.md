@@ -1,23 +1,19 @@
-## Hi there 👋
+# 你好，欢迎访问我的 GitHub！
 
-梁　小麗(リョウ　ショウレイ)
+我是梁小丽，来自中国，目前在日本自学IT，专注于前端和后端开发。喜欢编程和解决问题，未来希望在日本的IT行业工作。
 
-☺基本情報
-現在地: 川崎
-メール:  liangxiaoli378@gmail.com
-Github: https://github.com/Silence20240313
-ブログ: https://qiita.com/Silence20240313
-ノート：Note１
+## 技术栈
+- 前端：Vue.js, React, TypeScript
+- 后端：Spring Boot, Node.js
+- 数据库：MySQL, PostgreSQL
+- 工具：DBeaver, Git, Docker
 
-☺スキル
-言語: 日本語(JLPT N2:***), 中国語 (母語) 
-プログラミング言語: Java, HTML, JavaScript, CSS
-フレームワーク：Spring, Spring Boot, MyBatis, Vue.js
-DB: MySQL, DBeaver
+## 我的项目
+- [项目 1](链接) - 项目描述
 
-☺プロジェクト経験
-ＸＸＸ管理システム
-使われる技術: Springboot, Mybatis, Vuejs, Mysql8, Java17, Element UI, DBeaver
-機能: ログイン、社員管理、部門管理、記事管理
-ソースコード: TODO
+
+## 联系我
+- [邮箱](mailto:example@example.com)
+- [LinkedIn](https://www.linkedin.com/in/你的名字)
+
 
