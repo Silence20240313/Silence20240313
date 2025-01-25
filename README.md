@@ -26,9 +26,8 @@
 
 ## 💻 使用している技術とツール
 
-- **プログラミング言語**: Java
-- **フロントエンド**: Vue 3、JavaScript、HTML、CSS
-- **バックエンド**: Spring Boot、MyBatis
-- **データベース**: MySQL
-- **ツールとライブラリ**: Git、Postman、DBeaver
+- **プログラミング言語**: Java, HTML, JavaScript, CSS
+- **フレームワーク**: Spring, Spring Boot, MyBatis, Vue.js
+- **ツール**: Git, GitHub, DBeaver, PostMan, VsCode, IntelliJ IDEA
+- **DB**: MySQL
 ---
