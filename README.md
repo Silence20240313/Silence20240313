@@ -18,8 +18,10 @@ ITに関する実務経験がないですが、日本でJava開発の仕事を�
 
 - [GitHub](https://github.com/Silence20240313)
 - [ブログ](https://qiita.com/Silence20240313)
-- [プロジェクト](your-twitter-url)
-- [ノート](your-twitter-url)
+- [プロジェクトバックエンド](https://github.com/Silence20240313/Book-Back-End)
+- [プロジェクトフロントエンド](https://github.com/Silence20240313/Book-Front-End)
+- [バックエンドノート](https://github.com/Silence20240313/java-learning/tree/main/java%E7%AC%94%E8%AE%B0)
+- [フロントエンドノート](https://github.com/Silence20240313/java-learning/tree/main/%E5%89%8D%E7%AB%AF%E5%8F%8Asql%E7%AC%94%E8%AE%B0)
 - [E-Mail](liangxiaoli378@gmail.com)
 - [LinkedIn](your-linkedin-url)
 ---
