@@ -21,7 +21,6 @@
 - [バックエンドノート](https://github.com/Silence20240313/java-learning/tree/main/java%E7%AC%94%E8%AE%B0)
 - [フロントエンドノート](https://github.com/Silence20240313/java-learning/tree/main/%E5%89%8D%E7%AB%AF%E5%8F%8Asql%E7%AC%94%E8%AE%B0)
 - E-Mail：liangxiaoli378@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/xiaoli-liang-1b9681347/)
 ---
 
 ## 💻 使用している技術とツール
